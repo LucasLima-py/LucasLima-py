@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/lucas-da-silva-lima-454236191" target="_blank"><img align="center" alt="Lucas-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 - 😄 Pronomes: Ele/Dele
 
-##
+## Skills
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
@@ -22,6 +22,7 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="Lucas-Sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Lucas-PBI" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/PowerBI.svg">
   
    ![Snake animation](https://github.com/LucasLima-py/LucasLima-py/blob/output/github-contribution-grid-snake.svg)
   
