@@ -33,8 +33,7 @@
   <img align="center" alt="Lucas-GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="Lucas-Sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Lucas-PBI" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/PowerBI.svg">
-  
-   ![Snake animation](https://github.com/LucasLima-py/LucasLima-py/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
-  
+
+##
+![Snake animation](https://github.com/LucasLima-py/LucasLima-py/blob/output/github-contribution-grid-snake.svg)
