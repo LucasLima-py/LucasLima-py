@@ -7,6 +7,7 @@
   <a href = "mailto:lucaslima.eng2311@gmail.com"><img align="center" alt="Lucas-gmail" height="30" width="30" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-gmail-social-media-justicon-flat-justicon.png"></a>
   <a href="https://www.linkedin.com/in/lucas-da-silva-lima-454236191" target="_blank"><img align="center" alt="Lucas-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 - 😄 Pronomes: Ele/Dele
+- ⚙ "O que eu não posso criar, não entendo" - Richard Phillips Feynman
 
 #### English Version
 # Hello! I'm Lucas Lima. 😁
@@ -18,6 +19,7 @@
   <a href = "mailto:lucaslima.eng2311@gmail.com"><img align="center" alt="Lucas-gmail" height="30" width="30" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-gmail-social-media-justicon-flat-justicon.png"></a>
   <a href="https://www.linkedin.com/in/lucas-da-silva-lima-454236191" target="_blank"><img align="center" alt="Lucas-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 - 😄 Pronouns: He/Him
+- ⚙ "What I cannot create, I do not understand" - Richard Phillips Feynman
 
 ## Skills
 
