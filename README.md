@@ -1,6 +1,6 @@
 # Olá! Eu sou o Lucas Lima. 😁 
 - 🎓 Engenheiro Eletrônico formado pelo Instituto Federal de SP
-- 💻 Trainee da área de inovação e BI na Tekbond Saint-Gobain
+- 💻 Supervisor de Soluções Digitais na Tekbond Saint-Gobain
 - 📚 Atualmente estudando sistemas de Business Intelligence e infraestrutura de dados
 - 📫 Contate-me através dos links: 
   <a href="https://api.whatsapp.com/send?phone=5511982833174" target="_blank"><img align="center" alt="Lucas-wpp" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/220/220236.png"></a>
@@ -12,7 +12,7 @@
 #### English Version
 # Hello! I'm Lucas Lima. 😁
 - 🎓 Electronic Engineer graduated from Instituto Federal de São Paulo
-- 💻 Innovation and BI Trainee at Tekbond Saint-Gobain
+- 💻 Digital Solutions Supervisor at Tekbond Saint-Gobain
 - 📚 Currently studying Business Intelligence systems and data infrastructure
 - 📫 Contact me through following links: 
   <a href="https://api.whatsapp.com/send?phone=5511982833174" target="_blank"><img align="center" alt="Lucas-wpp" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/220/220236.png"></a>
